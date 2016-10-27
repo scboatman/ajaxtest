@@ -10,15 +10,15 @@ namespace Ajax {
             .state('home', {
                 url: '/',
                 templateUrl: '/ngApp/views/home.html',
-                controller: Ajax.Controllers.HomeController,
+                controller: Ajax.Controllers.ProductsController,
                 controllerAs: 'controller'
             })
-            .state('about', {
-                url: '/about',
-                templateUrl: '/ngApp/views/about.html',
-                controller: Ajax.Controllers.AboutController,
-                controllerAs: 'controller'
-            })
+            //.state('about', {
+            //    url: '/about',
+            //    templateUrl: '/ngApp/views/about.html',
+            //    controller: Ajax.Controllers.ProductsController,
+            //    controllerAs: 'controller'
+            //})
             .state('notFound', {
                 url: '/notFound',
                 templateUrl: '/ngApp/views/notFound.html'

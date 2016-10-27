@@ -1,19 +1,10 @@
 namespace Ajax.Services {
 
-    export class MovieService {
-        private MovieResource;
-
-        public listMovies() {
-            return this.MovieResource.query();
+    export class TaxService {
+        CalculateTax(Price) {
+            return Price * .08;
         }
 
-        constructor($resource: ng.resource.IResourceService) {
-            this.MovieResource = $resource('/api/movies');
-        }
     }
-    angular.module('Ajax').service('movieService', MovieService);
-    export class MyService {
-
-    }
-    angular.module('Ajax').service('myService', MyService);
-    }
+    angular.module('Ajax').service('TaxService', TaxService);
+}
