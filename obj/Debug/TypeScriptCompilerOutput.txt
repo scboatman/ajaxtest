@@ -28,3 +28,15 @@ C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\controllers\con
 C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\controllers\controllers.js.map
 C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\services\services.js
 C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\services\services.js.map
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\app.js
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\app.js.map
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\controllers\controllers.js
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\controllers\controllers.js.map
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\services\services.js
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\services\services.js.map
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\app.js
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\app.js.map
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\controllers\controllers.js
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\controllers\controllers.js.map
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\services\services.js
+C:\Programming\FullStack.Net\WeekTwo\Ajax\src\Ajax\wwwroot\ngApp\services\services.js.map
